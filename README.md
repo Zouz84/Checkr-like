@@ -1,24 +1,8 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Lis-moi
+Voilà, 2 Projets à faire pour aujourd'hui. J'en fais la moitié d'un. <br/>
+*"Cette formation est ouverte à tous, même aux débutants"* qu'ils disaient.<br/>
+<br/>
+Mon application: https://damp-cliffs-24467.herokuapp.com/checkr.
+<br/>
+<br/>
+Force et honneur.
