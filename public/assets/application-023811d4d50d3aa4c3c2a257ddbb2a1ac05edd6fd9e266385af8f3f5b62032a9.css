@@ -1,0 +1,241 @@
+/* line 1, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+body {
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+  font-family: "Montserrat",sans-serif;
+  font-weight: lighter;
+}
+
+/* Section 1 */
+/* line 10, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.toppage {
+  background: url(data:image/jpeg;base64,%2F9j%2F4AAQSkZJRgABAQAAAQABAAD%2F2wCEAAkGBw4NDw0NDQ0NDQ0NDQ0NDQ0NDQ8NDQ0NFREWFhURExMYHSggGBolGxMTITEhJSkrLi4uFx8zODM4Nyg5OisBCgoKDg0OFRAQFysZFRkrLS0tLS0tLSsrKystLSsrKy0rLS0tLS0rLTctLS03Ky0tLSstNy0tKystLSstLTctLf%2FAABEIALcBEwMBIgACEQEDEQH%2FxAAbAAADAQEBAQEAAAAAAAAAAAABAgMABAUGB%2F%2FEACYQAAMAAgICAwABBQEAAAAAAAABAgMREiETMQRBUXFhkaGx8YH%2FxAAaAQADAQEBAQAAAAAAAAAAAAABAgMABAUG%2F8QAHBEBAQEBAQEBAQEAAAAAAAAAAAECERIhEwMx%2F9oADAMBAAIRAxEAPwDqQ8sVDH2dfBU6ZhBkxSWGFNyAYBKQJKb9FYh%2Fgto5n1RDIVFFJKrQUUmRZk6MUk9VXMGY0EpxFaJ96twFOzaDIaMzSMmBCchf9H%2FFuQGyfIKZuD0TbAzJhYwdACKaMZsDBszdNsHIVsAeB0zYZAkFIzKJjOiewNg4bpnROmDkK2NIW0dmFCNwHgpBAY73msZGbF2ZhHxzt6Jo6%2Fir2Lq8jSdvHRjxpILkeSsyc106ZlCZ37KKSqkTJ0L3p%2FPCFMdEisI1aOhUJYqrRnSJ8U6yBViu%2FwAFG4W03kYrZgBL0eQ80SGSNYMqvIKYqkGwG6smMkSxsvK2JVM%2FS6BwL8BRfRvKDRpRTIicMbvwvPpzAMAWuiVZA5GQY%2BYS0as02IxSnCdX5oxNIIOD2vHCJsOztee1MXZmAMEyZ0%2FGvT1%2BnKimJ9oXU7A7yvXhFZOfDfRbmcenbk3IldbYuRgRpGtVmTegTQwBDZhtCMzMYATUGMEeJ%2BwCRQysQZIvEC60bOXPQlM6ssnJSDm9bU4fG%2BzqmjjgsgahsV1b2biJjZSqRJaJ2QKX2IkPCUyaM6M4EaMHSZOweMdIYfocc9QTcnQ1sHAaUvEDFXAA9DjxDDKGCoZ2decRihZpQwih4faNMP8ACyxCXUCS12YXtF0cWJtHQqZzajrzfhrYoZnYXOgGBMqmRYUzWNKrsVsTkYHB6fYQSjomBbeDJ1FHSpJ1Gi8La2JqnzAmS2hNDyydqsjcTiyT2dzr8OfxfrDm8Dc6gpHgr4QRPY3okzxWQ6FQWxFSsD6%2Fk2ux%2BGwgSaBWhnAOIfjfURlJnJSRrQkIoBUlGwNbB0eINGKcDDdLx4DseaRycgqjv8vL9HzL7RX4sJnNVdFfjZNGveNmzr0FCBU6BOZCVk5dIh9dPYfGWSJ45a%2Bn%2FYvEi6psw8GsecYXjJdV58c7FZW5I0PKSxhkJseQ0FoLzRCChKqZO%2By2NEYKTWhKpFnoTkDkGF2v5EP%2FAKpoKgopG4ielJlLgJcff2jp4gcmmh8ISxMjLKRanY0pbPhIjZ0TBPH0dMi60fGYjUE7g6uJnAPRvDg8YfGdyxGeMP6B%2BTh8YyxnX4jKDfoP5OTxmOvxhB7H8nwOJJ%2BzoeNa6OXH9HZCPY1ePBxOuLImLNHXnxbILEl77GmpYFzZ8Pgbp6%2FuelhevRz%2FABIXfSOpR%2BEN66t%2FPPHTiLqNksEnVBy6rrxPhUjMZtATQvT8RyI5rR1ZSFIpmpajnHk1IKQ%2FScWhlUznkqqJ08WTDskqKStiU8PJaECMZVRonarnLqxrr%2FZTRGGVVkK6s8K5EtGvJ%2BA5BgXgaBUh2FhLxFey8MnwHg1o5nFkNoElZRO10ZnSqTcRmZC9UmYXibgOEHR8pcAlNGN6Hw%2FMcO36PQxJo4%2Fjzo9DCz3v6V8v%2FPLOejnrGdNe9f8AorQk1xS5T%2BPWn36PQhHn6LY8jX2Lr6bPx6eMq61%2FJ5%2BH5FP%2FAIdUshqL5qjfQq2b2UmRejzqTkDk6OAtSb0Phx1JlJ0VAFA3ovhNSMkOoGUi3Q%2BSTJ04JJqS%2BETVPnP10ShtAQWyK8jSP2ycspyBTQrRgmCAJBCI2Yf8MZichas3BlXmy00cM2WjILrKmdurYORLyCuxPKnp0cw8zk8hvKbyPt18zHL5f6mN4H9Hw2KTrjo4ozcW0O%2FkOnpHta7Xz2fjtTW9%2FhXnLObFDZacbI3isjXiXsj%2FAER1TBNR2CaG5V%2BPGj0sWLfs5vjQd2MhvS%2F88g8AJjR1zOxniRH2v%2Bbl0Bydfg%2FBPH9A9m%2FNyeMPjO1YkPODfZv0GfycHjDwO94kSrGD9Gv8uOVQFQzpUmch9h4RVGdDVIvE3Q40sZ0JoK7CHFZo2xUtAqtGY7ohWYTLlOZ0PnKetup5ibyENmG8l9V0w9jO9HNGTRqybB5PNOpZgvMcfMHM3gf0dTym8py8zczeG9uvygOXmE3gfb5Zzt7OjBh7QYg7PjwdetuLOHb8fCtFniFxPobJejmtvXRMziGTUkUilUmLKGlLY6PjXpndHZwwjpwU9ktKZ%2BPQgbZFNjyyFdMrogNz9k5vQavoSqznBKQ%2BtEJTH0wU0VZG0HmCqBGpQMDYvsclBg0OpDwD0vlJoXWiuhWgyluSshlorSI0imalqIUIVpCNFZUbGSCPE7HeM3RkQqRGjpa0RaDKFiWwbGuRBgHZtgAZj7MKAwuHFhbOrHiS%2BwxJRCXfTzDPolVtlWJM9glawqQZLEL6DKFjoll8LOKMhacmhbGj0lXRNZDh8z%2FSk5hPKnp3zRSbOBZWy%2BGv8k7FM6dssdMhLKKidXlG2I2C62xWzRrRbCiTYyYxFExiSY6YDQaQjRRgSN1rEaklcnXSIZENnSesuWkTaLUhXBaaQuS460U8iJuBGg%2F6H2Hqti6F2bkEGpCOSqQXIfTeXM0KWuSehuh5bQCqkIPRvLmTKSjm56LY8xDq3F3OkQHdt%2BwMMoWFdkaY9k2x5U7FIja2ZMRMKD0vFEykkpKwLaaRbGdEIliR045Jaq2cnmmHmyignck%2Bq8rJhFTM2FhbMmLs2jFNseaJNATMMdKoeJZPF%2BlooS1SRrk5ch12zjyBzQ1E0jNDSFof0n5SaJ5JLNCWNNFuHO0ZSMzKinpPyaDoWJaOVMtOUW00hcuJEWtF7rZCmNK1ydUYlswW44MkgxsJiEqtjpkOt%2FwAwelsSyRokYw8qdjIdGMG0OKSi0IxhLTyOnGdeExiVq%2BY6ZQmRGMJ1SxChNmMPE7BQ6MYwRmToxjDxXHXRRUYwtPG5EafbMYA2FDyMYPSlpkqYTDwukmIzGHidjbM6MYYoTkNTMYIl2YxjNx%2F%2F9k%3D);
+  background-size: cover;
+  height: 770px;
+}
+
+/* line 17, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.topheader {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 10%;
+}
+/* line 21, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.topheader p {
+  padding-left: 20px;
+  color: white;
+  font-size: 14px;
+}
+/* line 25, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.topheader p:hover {
+  color: #ddd;
+}
+
+/* line 30, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.bottomheader {
+  display: flex;
+  justify-content: space-between;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+/* line 38, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.left {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 10%;
+  color: white;
+}
+/* line 44, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.left img {
+  width: 130px;
+}
+/* line 47, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.left p:hover {
+  color: #ddd;
+}
+
+/* line 52, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.dropbtn {
+  padding: 16px;
+  font-size: 16px;
+  background-color: none;
+  border: none;
+}
+
+/* line 59, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+/* line 68, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* line 75, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.dropdown-content a:hover {
+  color: blue;
+}
+
+/* line 79, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* line 83, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.dropdown:hover .dropbtn {
+  color: #ddd;
+}
+
+/* line 88, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.right {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 10%;
+  align-items: center;
+}
+/* line 93, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.right p {
+  padding-right: 20px;
+  color: white;
+  font-size: 16px;
+}
+/* line 98, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.right p:hover {
+  color: #ddd;
+}
+/* line 101, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.right button {
+  text-transform: uppercase;
+  padding: 22px 36px 22px 36px;
+  margin: 0;
+  font-size: 15px;
+  display: inline-flex;
+  border-radius: 1px;
+  color: #efc81f;
+  border-width: 2px;
+  background-color: transparent;
+  border-color: #efc81f;
+}
+/* line 113, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.right button:hover {
+  background-color: #efc81f;
+  color: #314b68;
+}
+
+/* line 120, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+/* line 128, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.catch {
+  width: 526px;
+  position: absolute;
+  color: white;
+  margin-top: 10%;
+  margin-left: 10%;
+}
+/* line 135, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.catch h1 {
+  font-size: 40px;
+}
+/* line 138, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.catch p {
+  font-size: 18px;
+}
+/* line 141, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.catch button {
+  background-color: #e0be2d;
+  text-transform: uppercase;
+  padding: 22px 36px 22px 36px;
+  margin: 0;
+  font-size: 15px;
+  display: inline-flex;
+  border-radius: 5px;
+  color: #314b68;
+  border-width: 0px;
+}
+/* line 152, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.catch button:hover {
+  opacity: 0.8;
+}
+
+/* line 157, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.catchright {
+  width: 550px;
+  margin-left: 50%;
+  margin-right: 10%;
+  margin-top: 5%;
+}
+
+/* line 164, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.image {
+  width: 100%;
+  margin-right: 10%;
+}
+
+/* Section 2 */
+/* line 176, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.text {
+  display: flex;
+  justify-content: center;
+  padding-top: 5%;
+}
+
+/* line 181, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.conteneur {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+/* line 188, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.logo {
+  width: 10%;
+  height: 10%;
+}
+
+/* line 194, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.logo1 {
+  width: 10%;
+  height: 10%;
+  padding-top: 3%;
+}
+
+/* line 199, /home/seize/landing-pages/app/assets/stylesheets/checkr.scss */
+.logo2 {
+  width: 10%;
+  height: 10%;
+  padding-top: 2%;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+
+
+ */
+
