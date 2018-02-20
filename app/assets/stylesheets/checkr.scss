@@ -7,7 +7,7 @@ body {
 }
 
 /* Section 1 */
-.landingtop {
+.toppage {
 	background: asset-data-url('checkr.jpg');
 	background-size: cover;
 	height: 770px;
@@ -73,7 +73,7 @@ body {
 }
 
 .dropdown-content a:hover {
-color: #ddd
+color: blue;
 }
 
 .dropdown:hover .dropdown-content {
@@ -104,14 +104,14 @@ color: #ddd
 					margin:0;
 					font-size:15px;
 					display: inline-flex;
-					border-radius: 5px;
-					color:rgb(224, 190, 45);
+					border-radius: 1px;
+					color: #efc81f;
 					border-width: 2px;
 					background-color: transparent;
-					border-color: rgb(224, 190, 45);
+					border-color: #efc81f;
 				}
 				button:hover{
-				background-color: rgb(224, 190, 45);
+				background-color: #efc81f;
 				color:rgb(49, 75, 104)
 				}
 
@@ -131,6 +131,7 @@ color: #ddd
 	color:white;
 	margin-top:10%;
 	margin-left:10%;
+
 		h1 {
 			font-size: 40px;
 		}
@@ -151,4 +152,52 @@ color: #ddd
 				button:hover {
 					opacity:0.8;
 				}
+}
+
+.catchright {
+	
+	width: 550px;
+	margin-left: 50%;
+	margin-right: 10%;
+	margin-top: 5%;
+}
+.image {
+	width: 100%;
+	margin-right: 10%;
+	
+}
+
+/* Section 2 */
+
+.secondpage {
+
+}
+
+.text {
+	display: flex;
+	justify-content: center;
+	padding-top: 5%;
+}
+.conteneur {
+	display: flex;
+	justify-content: space-around;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.logo {
+	width: 10%;
+	height: 10%;
+		
+}
+
+.logo1 {
+			width: 10%;
+			height: 10%;
+			padding-top: 3%;
+		}
+.logo2 {
+	width: 10%;
+	height: 10%;
+	padding-top: 2%;
 }
